@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="logo_w_h">100dp</dimen>
+    <dimen name="profile_pdding">12dp</dimen>
+    <dimen name="profile_photo_size">17sp</dimen>
+    <dimen name="profile_margin_top">12dp</dimen>
+    <dimen name="profile_margin_right">109dp</dimen>
+    <dimen name="profile_padding_mandatory">5dp</dimen>
+
+    <dimen name="explore_padding">5dp</dimen>
+    <dimen name="explore_relative_padding">2dp</dimen>
+    <dimen name="explore_genre_text_size">18sp</dimen>
+    <dimen name="explore_genre_text_button_height">42dp</dimen>
+    <dimen name="explore_genre_below_recycler_hright">160dp</dimen>
+
+</resources>

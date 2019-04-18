@@ -1,0 +1,62 @@
+<RelativeLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp"
+        android:background="@color/profile_photo_background"
+        android:orientation="vertical">
+
+        <ImageView
+        android:id="@+id/netwok_cover_image"
+        android:layout_width="match_parent"
+            android:background="@color/white"
+
+
+        android:layout_height="150dp"
+        />
+
+        <EditText
+            android:id="@+id/network_genre"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textCapCharacters"
+            android:singleLine="true"
+            android:hint="@string/network_create_genre"
+            android:layout_marginEnd="120dp"
+            />
+        <EditText
+            android:id="@+id/network_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textCapCharacters"
+            android:singleLine="true"
+            android:hint="@string/network_title"
+            android:layout_marginEnd="120dp"
+            />
+
+        <EditText
+            android:id="@+id/network_desc"
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:inputType="text"
+            android:textAlignment="gravity"
+            android:gravity="top"
+            android:singleLine="true"
+            android:maxLines="5"
+            android:hint="@string/network_create_desc"
+            />
+        <Button
+            android:id="@+id/network_save_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/profile_hint_save" />
+
+
+
+    </LinearLayout>
+
+</RelativeLayout>

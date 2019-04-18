@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "600690925938",
+    "firebase_url": "https://login-7e837.firebaseio.com",
+    "project_id": "login-7e837",
+    "storage_bucket": "login-7e837.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600690925938:android:dbe7fde1dda80537",
+        "android_client_info": {
+          "package_name": "com.four_chopsticks.loginregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600690925938-a7718kk9ki5d9k909tf4pgke3eolhuik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxncuaKvwipf7Sm7V9A0EM8JTC0LGX2gI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="@string/title_feed"
+        android:id="@+id/navigation_feed"
+        android:icon="@drawable/feed"/>
+
+    <item
+        android:title="@string/title_explore"
+        android:id="@+id/navigation_explore"
+        android:icon="@drawable/isearch"/>
+
+    <item
+        android:title="@string/title_Mynetwork"
+        android:id="@+id/navigation_my_network"
+        android:icon="@drawable/create_network"/>
+
+    <item
+        android:title="@string/title_profile"
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/profile_avator"/>
+</menu>
